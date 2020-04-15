@@ -1,0 +1,13 @@
+C:\Users\OP\source\repos\New_Way\bin\Debug\netcoreapp3.1\New_Way.exe
+C:\Users\OP\source\repos\New_Way\bin\Debug\netcoreapp3.1\New_Way.deps.json
+C:\Users\OP\source\repos\New_Way\bin\Debug\netcoreapp3.1\New_Way.runtimeconfig.json
+C:\Users\OP\source\repos\New_Way\bin\Debug\netcoreapp3.1\New_Way.runtimeconfig.dev.json
+C:\Users\OP\source\repos\New_Way\bin\Debug\netcoreapp3.1\New_Way.dll
+C:\Users\OP\source\repos\New_Way\bin\Debug\netcoreapp3.1\New_Way.pdb
+C:\Users\OP\source\repos\New_Way\obj\Debug\netcoreapp3.1\New_Way.csprojAssemblyReference.cache
+C:\Users\OP\source\repos\New_Way\obj\Debug\netcoreapp3.1\New_Way.csproj.CoreCompileInputs.cache
+C:\Users\OP\source\repos\New_Way\obj\Debug\netcoreapp3.1\New_Way.AssemblyInfoInputs.cache
+C:\Users\OP\source\repos\New_Way\obj\Debug\netcoreapp3.1\New_Way.AssemblyInfo.cs
+C:\Users\OP\source\repos\New_Way\obj\Debug\netcoreapp3.1\New_Way.dll
+C:\Users\OP\source\repos\New_Way\obj\Debug\netcoreapp3.1\New_Way.pdb
+C:\Users\OP\source\repos\New_Way\obj\Debug\netcoreapp3.1\New_Way.genruntimeconfig.cache
